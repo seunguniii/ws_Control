@@ -1,0 +1,38 @@
+[0.482s] Invoking command in '/home/sujin/ws_Control/src/pid_control': PYTHONPATH=/home/sujin/ws_Control/build/pid_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sujin/ws_Control/install/pid_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pid_control build --build-base /home/sujin/ws_Control/build/pid_control/build install --record /home/sujin/ws_Control/build/pid_control/install.log --single-version-externally-managed install_data
+[0.670s] running egg_info
+[0.671s] creating ../../build/pid_control/pid_control.egg-info
+[0.671s] writing ../../build/pid_control/pid_control.egg-info/PKG-INFO
+[0.671s] writing dependency_links to ../../build/pid_control/pid_control.egg-info/dependency_links.txt
+[0.671s] writing entry points to ../../build/pid_control/pid_control.egg-info/entry_points.txt
+[0.671s] writing requirements to ../../build/pid_control/pid_control.egg-info/requires.txt
+[0.672s] writing top-level names to ../../build/pid_control/pid_control.egg-info/top_level.txt
+[0.672s] writing manifest file '../../build/pid_control/pid_control.egg-info/SOURCES.txt'
+[0.674s] reading manifest file '../../build/pid_control/pid_control.egg-info/SOURCES.txt'
+[0.674s] adding license file 'LICENSE'
+[0.674s] writing manifest file '../../build/pid_control/pid_control.egg-info/SOURCES.txt'
+[0.674s] running build
+[0.674s] running build_py
+[0.675s] creating /home/sujin/ws_Control/build/pid_control/build
+[0.675s] creating /home/sujin/ws_Control/build/pid_control/build/lib
+[0.675s] creating /home/sujin/ws_Control/build/pid_control/build/lib/pid_control
+[0.675s] copying pid_control/thrust.py -> /home/sujin/ws_Control/build/pid_control/build/lib/pid_control
+[0.675s] copying pid_control/__init__.py -> /home/sujin/ws_Control/build/pid_control/build/lib/pid_control
+[0.675s] running install
+[0.675s] running install_lib
+[0.676s] creating /home/sujin/ws_Control/install/pid_control/lib/python3.10/site-packages/pid_control
+[0.676s] copying /home/sujin/ws_Control/build/pid_control/build/lib/pid_control/thrust.py -> /home/sujin/ws_Control/install/pid_control/lib/python3.10/site-packages/pid_control
+[0.676s] copying /home/sujin/ws_Control/build/pid_control/build/lib/pid_control/__init__.py -> /home/sujin/ws_Control/install/pid_control/lib/python3.10/site-packages/pid_control
+[0.676s] byte-compiling /home/sujin/ws_Control/install/pid_control/lib/python3.10/site-packages/pid_control/thrust.py to thrust.cpython-310.pyc
+[0.678s] byte-compiling /home/sujin/ws_Control/install/pid_control/lib/python3.10/site-packages/pid_control/__init__.py to __init__.cpython-310.pyc
+[0.678s] running install_data
+[0.678s] creating /home/sujin/ws_Control/install/pid_control/share/ament_index
+[0.678s] creating /home/sujin/ws_Control/install/pid_control/share/ament_index/resource_index
+[0.678s] creating /home/sujin/ws_Control/install/pid_control/share/ament_index/resource_index/packages
+[0.678s] copying resource/pid_control -> /home/sujin/ws_Control/install/pid_control/share/ament_index/resource_index/packages
+[0.678s] copying package.xml -> /home/sujin/ws_Control/install/pid_control/share/pid_control
+[0.678s] running install_egg_info
+[0.680s] Copying ../../build/pid_control/pid_control.egg-info to /home/sujin/ws_Control/install/pid_control/lib/python3.10/site-packages/pid_control-0.0.0-py3.10.egg-info
+[0.680s] running install_scripts
+[0.696s] Installing thrust script to /home/sujin/ws_Control/install/pid_control/lib/pid_control
+[0.697s] writing list of installed files to '/home/sujin/ws_Control/build/pid_control/install.log'
+[0.717s] Invoked command in '/home/sujin/ws_Control/src/pid_control' returned '0': PYTHONPATH=/home/sujin/ws_Control/build/pid_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sujin/ws_Control/install/pid_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pid_control build --build-base /home/sujin/ws_Control/build/pid_control/build install --record /home/sujin/ws_Control/build/pid_control/install.log --single-version-externally-managed install_data

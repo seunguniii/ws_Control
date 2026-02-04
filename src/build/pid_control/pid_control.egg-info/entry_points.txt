@@ -1,0 +1,3 @@
+[console_scripts]
+thrust = pid_control.thrust:main
+
